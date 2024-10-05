@@ -45,9 +45,11 @@ Here, we will do a descriptive statistic of the numerical columns to find the me
 
 ## Exploratory Data Analysis
 **1.	Which Manufacturer has the highest and lowest average sales volume?** 
+
 We check for the highest and lowest by grouping the Manufacturer with the mean of Sales in thousands and then sorting them in ascending or descending order respectively. Instead of sorting, we can also use idmax() and idxmin() to find the highest and lowest average sales volume respectively
 
 **2.	Distribution of car prices in the dataset**
+
 Here, we group and plot the Manufacturer with the sum of the Price in thousand  
 ![image](https://github.com/user-attachments/assets/11c999ad-0d1d-4ef5-b44c-716e1559d88c)
 
